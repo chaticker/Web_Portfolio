@@ -2,7 +2,7 @@
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/23302973/102874928-7c7ff880-4486-11eb-97af-a841a43f8104.gif)
 
-[개인 웹 사이트 포트폴리오 프로젝트]
+### 개인 웹 사이트 포트폴리오 프로젝트
 
 :art:직접 했던 UI/UX 디자인 자료를 담은 포트폴리오 사이트 개발 프로젝트입니다.:art:
 
